@@ -1,0 +1,20 @@
+[
+    {
+        "id": 7,
+        "title": "Club Hoodie 5136 BLACK",
+        "imgUrl": "img/c7.jpg",
+        "price": "₩ 98,000"
+    },
+    {
+        "id": 8,
+        "title": "Basic symbol zip-up 2123 OATMEAL",
+        "imgUrl": "img/c8.jpg",
+        "price": "₩ 128,000"
+    },
+    {
+        "id": 9,
+        "title": "Collar Sweat Zip-up 2124 MELANGE GREY",
+        "imgUrl": "img/c9.jpg",
+        "price": "₩ 148,000"
+    }
+]
