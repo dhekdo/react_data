@@ -4,24 +4,24 @@
         "id": 5,
         "title": "WMNS Summer Cardigan 1860 IVORY",
         "imgUrl": "img/c5.jpg",
-        "price": "₩ 128,000"
+        "price": 128000
     },
     {
         "id": 6,
         "title": "Club Hoodie 5136 KHAKI",
         "imgUrl": "img/c6.jpg",
-        "price": "₩ 98,000"
+        "price": 98000
     },
     {
         "id": 7,
         "title": "Line Knit Vest 1852 BEIGE",
         "imgUrl": "img/c7.jpg",
-        "price": "₩ 98,000"
+        "price": 98000
     },
     {
         "id": 8,
         "title": "Basic symbol zip-up 2123 OATMEAL",
         "imgUrl": "img/c8.jpg",
-        "price": "₩ 128,000"
+        "price": 128000
     }
 ]
