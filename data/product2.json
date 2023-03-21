@@ -3,24 +3,28 @@
     {
         "id": 5,
         "title": "WMNS Summer Cardigan 1860 IVORY",
+        "title_kr":"우먼스 썸머 가디건 1860 아이보리",
         "imgUrl": "img/c5.jpg",
         "price": 128000
     },
     {
         "id": 6,
         "title": "Club Hoodie 5136 KHAKI",
+        "title_kr":"클럽 후디 5136 카키",
         "imgUrl": "img/c6.jpg",
         "price": 98000
     },
     {
         "id": 7,
         "title": "Line Knit Vest 1852 BEIGE",
+        "title_kr":"라인 니트 베스트 1852 베이지",
         "imgUrl": "img/c7.jpg",
         "price": 98000
     },
     {
         "id": 8,
         "title": "Basic symbol zip-up 2123 OATMEAL",
+        "title_kr":"베이직 심볼 집업 2123 오트밀",
         "imgUrl": "img/c8.jpg",
         "price": 128000
     }

@@ -2,24 +2,28 @@
     {
         "id": 9,
         "title": "Collar Sweat Zip-up 2124 MELANGE GREY",
+        "title_kr":"칼라 스웨트 집업 2124 멜란지그레이",
         "imgUrl": "img/c9.jpg",
         "price": 148000
     },
     {
         "id": 10,
         "title": "WMNS Collar Sweat Zip-up 5125 BLACK",
+        "title_kr":"우먼스 칼라 스웨트 집업 5125 블랙",
         "imgUrl": "img/c10.jpg",
         "price": 128000
     },
     {
         "id": 11,
         "title": "Basic WMNS Zip-up 2122 BEIGE",
+        "title_kr":"베이직 우먼스 집업 2122 베이지",
         "imgUrl": "img/c11.jpg",
         "price": 128000
     },
     {
         "id": 12,
         "title": "Snap Hoodie 5135 IVORY",
+        "title_kr":"스냅 후디 5135 아이보리",
         "imgUrl": "img/c12.jpg",
         "price": 118000
     }
